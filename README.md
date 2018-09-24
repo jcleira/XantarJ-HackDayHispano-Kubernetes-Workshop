@@ -33,6 +33,12 @@ Ficheros de configuracicón de Kubernetes para el deployment de nuestra aplicaci
 
 El workshop comenzará con una charla de introducción sobre casos de uso de Kubernetes y una introducción a los conceptos de Kubernetes, para despues continuar con los siguientes pasos prácticos.
 
+### Descarga de la máquina virtual
+
+Podéis descargar el disco / volumen para la máquina virtual desde la siguiente URL:
+
+https://drive.google.com/file/d/1fIR2Bo3ZHugnGrlN9gZahGa2xHmYMUFH/view?usp=sharing
+
 ### Arranque de la máquina virtual
 
 1.- Crear una nueva máquina virtuan en VirtualBox
